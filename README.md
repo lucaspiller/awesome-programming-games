@@ -18,6 +18,7 @@ pull request to add it!
 - [Robocode](#robocode)
 - [Scalatron](#scalatron)
 - [Vindinium](#vindinium)
+- (Robot Rumble)(#robotrumble)
 
 #### [Educational](#educational-1)
 
@@ -92,6 +93,13 @@ Control your hero to collect the most gold per level.
 
 - Language: Various
 - External editor support: Yes
+
+#### [Robot Rumble](https://robotrumble.org/)
+
+Code an algorithm for a team of robots battling in 1x1 grid-based arenas. 
+
+- Language: Python and Javascript
+- Exterrnal editor support: Yes
 
 ### Educational
 
