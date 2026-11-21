@@ -17,6 +17,7 @@ pull request to add it!
 - [JavaScript Fight Club](#javascript-fight-club)
 - [Robocode](#robocode)
 - [Scalatron](#scalatron)
+- [Stickman Battle](#stickman-battle)
 - [Vindinium](#vindinium)
 
 #### [Educational](#educational-1)
@@ -85,6 +86,13 @@ Control bots to compete for energy and survival.
 
 - Language: Scala
 - External editor support: Yes
+
+#### [Stickman Battle](https://stickman-battle.onrender.com/)
+
+Control stickman fighters with Python code to battle adaptive AI bots and friends in a real-time arena.
+
+- Language: Python
+- External editor support: No
 
 #### [Vindinium](http://vind-legacy.thegrid.red/)
 
